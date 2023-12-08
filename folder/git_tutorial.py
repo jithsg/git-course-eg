@@ -1,4 +1,5 @@
 def add_number(a, b, c):
+    """Add three numbers together"""
     return a + b + c
 #add a comment
 #1. extend function to allow arbitrary number of arguments
