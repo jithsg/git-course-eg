@@ -1,5 +1,5 @@
 def add_number(a, b, c):
-    return a + b + c
+    return sum(a, b, c)
 #add a comment
 #1. extend function to allow arbitrary number of arguments
 #2. investigate and resolve security issue
